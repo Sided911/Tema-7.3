@@ -28,26 +28,26 @@ namespace ConsoleApp1
             //Console.WriteLine($"Кол-во полных чисел={count}");
 
             //3 задание
-            Random random = new Random();
-            for (int i = 0; i < 12; i++)
-            {
-                double number = random.NextDouble() * (5 - (-5)) +
-                    (-5);
-                Console.Write(number + " ");
-                if (number < 0)
-                {
-                    Console.WriteLine("- отрицательное число");
-                }
-                else if (number > 0)
-                {
-                    Console.WriteLine("-положительное число");
-                }
-                else
-                {
-                    Console.WriteLine("-ноль");
-                }
-            }
-            Console.ReadKey();
+            //Random random = new Random();
+            //for (int i = 0; i < 12; i++)
+            //{
+            //    double number = random.NextDouble() * (5 - (-5)) +
+            //        (-5);
+            //    Console.Write(number + " ");
+            //    if (number < 0)
+            //    {
+            //        Console.WriteLine("- отрицательное число");
+            //    }
+            //    else if (number > 0)
+            //    {
+            //        Console.WriteLine("-положительное число");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("-ноль");
+            //    }
+            //}
+            //Console.ReadKey();
         }
     }
 }
