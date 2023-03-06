@@ -16,16 +16,38 @@ namespace ConsoleApp1
             //Console.ReadKey();
 
             //2 задание
-            int count = 0;
+            //int count = 0;
+            //Random random = new Random();
+            //for (int i = 1; i <= 15; i++)
+            //{
+            //    double x = -20 + 50 * random.NextDouble();
+            //    Console.WriteLine(x);
+            //    if (x > 0) 
+            //    { count++; }
+            //}
+            //Console.WriteLine($"Кол-во полных чисел={count}");
+
+            //3 задание
             Random random = new Random();
-            for (int i = 1; i <= 15; i++)
+            for (int i = 0; i < 12; i++)
             {
-                double x = -20 + 50 * random.NextDouble();
-                Console.WriteLine(x);
-                if (x > 0) 
-                { count++; }
+                double number = random.NextDouble() * (5 - (-5)) +
+                    (-5);
+                Console.Write(number + " ");
+                if (number < 0)
+                {
+                    Console.WriteLine("- отрицательное число");
+                }
+                else if (number > 0)
+                {
+                    Console.WriteLine("-положительное число");
+                }
+                else
+                {
+                    Console.WriteLine("-ноль");
+                }
             }
-            Console.WriteLine($"Кол-во полных чисел={count}");
+            Console.ReadKey();
         }
     }
 }
