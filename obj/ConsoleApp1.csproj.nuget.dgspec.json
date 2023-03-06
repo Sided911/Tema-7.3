@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prakt 3\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Prakt 3\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prakt 3\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Prakt 3\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\KAB35-15\\.nuget\\packages\\",
-        "outputPath": "D:\\Prakt 3\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Prakt 3\\Tema-7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KAB35-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
