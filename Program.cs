@@ -7,13 +7,25 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //1 задание 
+            //Random random = new Random();
+            //for (int i = 1; i<= 10; i++)
+            //{
+            //    int x = random.Next(-40, 40);
+            //    Console.WriteLine(x);
+            //}
+            //Console.ReadKey();
+
+            //2 задание
+            int count = 0;
             Random random = new Random();
-            for (int i = 1; i<= 10; i++)
+            for (int i = 1; i <= 15; i++)
             {
-                int x = random.Next(-40, 40);
+                double x = -20 + 50 * random.NextDouble();
                 Console.WriteLine(x);
+                if (x > 0) 
+                { count++; }
             }
-            Console.ReadKey();
+            Console.WriteLine($"Кол-во полных чисел={count}");
         }
     }
 }
