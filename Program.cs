@@ -51,34 +51,56 @@ namespace ConsoleApp1
             //Console.ReadKey();
 
             //4 задание 
-            Console.OutputEncoding = Encoding.UTF8;
-            Random rnd = new Random();
-            int num;
+            //Console.OutputEncoding = Encoding.UTF8;
+            //Random rnd = new Random();
+            //int num;
 
-            for (int i = 0; i < 8; i++)
-            {
-                num = rnd.Next(-30, 30); // генерация случайного числа в интервале (-30, 30)
-                Console.Write(num + " ");
+            //for (int i = 0; i < 8; i++)
+            //{
+            //    num = rnd.Next(-30, 30); // генерация случайного числа в интервале (-30, 30)
+            //    Console.Write(num + " ");
 
-                if (num < 0)
-                {
-                    Console.Write("отрицательное ");
-                }
-                else
-                {
-                    Console.Write("положительное ");
-                }
+            //    if (num < 0)
+            //    {
+            //        Console.Write("отрицательное ");
+            //    }
+            //    else
+            //    {
+            //        Console.Write("положительное ");
+            //    }
 
-                if (num % 2 == 0)
-                {
-                    Console.WriteLine("четное");
-                }
-                else
-                {
-                    Console.WriteLine("нечетное");
-                }
-            }
-            Console.Read();
+            //    if (num % 2 == 0)
+            //    {
+            //        Console.WriteLine("четное");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("нечетное");
+            //    }
+            //}
+            //Console.Read();
+
+            //5 задание 
+            //Console.OutputEncoding = Encoding.UTF8;
+            //Random rnd = new Random();
+            //int num;
+
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    num = rnd.Next(-20, 20); // генерация случайного числа в интервале (-20, 20)
+            //    if (num > 0)
+            //    { // проверка на положительность числа
+            //        Console.Write(num + " ");
+            //        if (num % 2 == 0)
+            //        {
+            //            Console.WriteLine("четное");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("нечетное");
+            //        }
+            //    }
+            //}
         }
     }
 }
