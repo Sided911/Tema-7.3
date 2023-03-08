@@ -51,7 +51,7 @@ namespace ConsoleApp1
             //Console.ReadKey();
 
             //4 задание 
-            Console.OutputEncoding = Encoding.UTF8
+            Console.OutputEncoding = Encoding.UTF8;
             Random rnd = new Random();
             int num;
 
