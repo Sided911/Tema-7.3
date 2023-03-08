@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pfMm6uxNF7qkbNhWTXKbtKaeDxmgA9mPsBSQCJh46SEaCnq+t/mOlEO1L+q86Wp+yCqe77sUij0VaCa3XvDstQ==",
+  "dgSpecHash": "U8M+cApWFBq/iYw8Lw+wHh7zBYENnCVL046NLUOialZQTMqBptgT13x+5zIjI7VCVf9YW2kCeMAbNzYf83QMQg==",
   "success": true,
-  "projectFilePath": "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Коды\\Новая папка\\Tema-7.3\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimap\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dimap\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dimap\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dimap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\KAB35-15\\.nuget\\packages\\": {}
+    "C:\\Users\\dimap\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Коды\\Новая папка\\Tema-7.3\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Prakt 3\\Tema-7\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\KAB35-15\\.nuget\\packages\\",
-      "outputPath": "D:\\Prakt 3\\Tema-7\\obj\\",
+      "projectPath": "D:\\Коды\\Новая папка\\Tema-7.3\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\dimap\\.nuget\\packages\\",
+      "outputPath": "D:\\Коды\\Новая папка\\Tema-7.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KAB35-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dimap\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,16 +51,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
