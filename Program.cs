@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace ConsoleApp1
 {
@@ -50,6 +51,7 @@ namespace ConsoleApp1
             //Console.ReadKey();
 
             //4 задание 
+            Console.OutputEncoding = Encoding.UTF8
             Random rnd = new Random();
             int num;
 
@@ -76,6 +78,7 @@ namespace ConsoleApp1
                     Console.WriteLine("нечетное");
                 }
             }
+            Console.Read();
         }
     }
 }

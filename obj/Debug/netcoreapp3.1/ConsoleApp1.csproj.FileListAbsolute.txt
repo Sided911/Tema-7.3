@@ -11,3 +11,17 @@ D:\Prakt 3\Tema-7\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.c
 D:\Prakt 3\Tema-7\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 D:\Prakt 3\Tema-7\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 D:\Prakt 3\Tema-7\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Коды\Новая папка\Tema-7.3\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Коды\Новая папка\Tema-7.3\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

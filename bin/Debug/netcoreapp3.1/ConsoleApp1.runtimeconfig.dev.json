@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\KAB35-15\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\KAB35-15\\.nuget\\packages"
+      "C:\\Users\\dimap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dimap\\.nuget\\packages"
     ]
   }
 }
